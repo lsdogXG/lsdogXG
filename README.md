@@ -27,7 +27,7 @@
 
 ## 📂 Public Projects
 
-- [`contract`](https://github.com/lsdogXG/contract) — EIP-712 signature-authorized ERC721 minting
+- [`nft-eip712-mint`](https://github.com/lsdogXG/nft-eip712-mint) — ERC-721 NFT with EIP-712 gasless signature minting
 - [`D3fv01d/EM`](https://github.com/D3fv01d/EM) — Audio adversarial protection (collaboration; frontend)
 - [`D3fv01d/ReLum`](https://github.com/D3fv01d/ReLum) — Web security training platform (collaboration)
 
