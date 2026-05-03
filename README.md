@@ -25,24 +25,32 @@
 
 </div>
 
-## 📂 Public Projects
+## ⭐ Featured
+
+- [`polymaker`](https://github.com/lsdogXG/polymaker) — Polymarket multi-asset arbitrage bot (BTC/ETH/SOL/XRP @ 15m/1h/4h)
+- [`trace-smart-wallet`](https://github.com/lsdogXG/trace-smart-wallet) — Smart wallet on-chain tracking & analysis platform
+- [`zhiyunfengwei`](https://github.com/lsdogXG/zhiyunfengwei) — 智云锋卫: 3D satellite-map flood monitoring (Next.js 15)
+- [`zsh-config`](https://github.com/lsdogXG/zsh-config) — Battle-tested macOS terminal setup with smart proxy & modern toolchain
+
+## 📂 Public Projects by Domain
 
 ### 💰 Crypto Quant
-- [`polymaker`](https://github.com/lsdogXG/polymaker) — Polymarket multi-asset prediction market arbitrage bot (BTC/ETH/SOL/XRP @ 15m/1h/4h)
-- [`nautilus_trader`](https://github.com/lsdogXG/nautilus_trader) — Production-grade Rust-native trading engine (fork)
+- [`polymaker`](https://github.com/lsdogXG/polymaker) — Polymarket multi-asset prediction market arbitrage bot
+- [`nautilus_trader`](https://github.com/lsdogXG/nautilus_trader) *(fork)* — Production-grade Rust-native trading engine
 
 ### 🛡 Security / SRC
-- [`srctools`](https://github.com/lsdogXG/srctools) — SRC vulnerability mining helper tools (6 standalone Python utilities)
-- [`trace-smart-wallet`](https://github.com/lsdogXG/trace-smart-wallet) — Smart wallet on-chain tracking & analysis platform
+- [`trace-smart-wallet`](https://github.com/lsdogXG/trace-smart-wallet) — Full smart wallet tracking platform (FastAPI + TGBot + Web3)
+- [`srctools`](https://github.com/lsdogXG/srctools) — 6 standalone Python utilities for SRC vulnerability mining
 
 ### 🌐 Web3 & Smart Contracts
 - [`nft-eip712-mint`](https://github.com/lsdogXG/nft-eip712-mint) — ERC-721 NFT with EIP-712 signature-based gasless minting
+- [`nht-ctf`](https://github.com/lsdogXG/nht-ctf) — GMX V1 Arbitrum fork CTF (Hardhat fork + keeper daemon)
 - [`reentrancy-overflow-ctf`](https://github.com/lsdogXG/reentrancy-overflow-ctf) — Smart Contract CTF: chain reentrancy + integer overflow
-- [`nht-ctf`](https://github.com/lsdogXG/nht-ctf) — GMX V1 Arbitrum fork CTF challenge (Hardhat fork + keeper daemon)
-- [`sol-meme-sniper`](https://github.com/lsdogXG/sol-meme-sniper) — Solana SPL meme-token sniper (OKX WaaS API, single-file Node)
+- [`sol-meme-sniper`](https://github.com/lsdogXG/sol-meme-sniper) — Solana SPL meme-token sniper (OKX WaaS API)
 
 ### 🎨 Frontend / Tools
-- [`zhiyunfengwei`](https://github.com/lsdogXG/zhiyunfengwei) — 智云锋卫: 3D satellite-map flood monitoring (Next.js 15)
+- [`zhiyunfengwei`](https://github.com/lsdogXG/zhiyunfengwei) — 3D satellite-map flood monitoring system (Next.js 15)
+- [`zsh-config`](https://github.com/lsdogXG/zsh-config) — macOS zsh terminal: smart `proxy_on/off`, curated PATH, OMZ/mise/zoxide/fzf/eza/fastfetch
 - [`paperfolio-portfolio`](https://github.com/lsdogXG/paperfolio-portfolio) — Portfolio landing page (Next.js + Radix UI)
 - [`bulk-url-manager`](https://github.com/lsdogXG/bulk-url-manager) — Chrome MV3 extension: open many URLs at once
 - [`vanilla-storefront`](https://github.com/lsdogXG/vanilla-storefront) — Vanilla HTML/CSS/JS storefront scaffolding with i18n
