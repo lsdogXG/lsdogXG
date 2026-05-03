@@ -13,9 +13,9 @@
 ## 🔍 Focus
 
 - **Crypto quant** — CTA strategies, factor mining, perpetual & funding-rate arbitrage, market making
-- **Security** — Web vulnerability research, red team tooling, CTF
-- **Web3** — Smart contracts (Solidity, EIP-712), on-chain trading
-- **Frontend** — React / TypeScript when a project needs a UI
+- **Security** — Web vulnerability research, SRC tooling, CTF
+- **Web3** — Smart contracts (Solidity, EIP-712), on-chain trading, NFT, prediction markets
+- **Frontend** — React / Next.js / TypeScript when a project needs a UI
 
 ## 🛠 Tech Stack
 
@@ -27,9 +27,29 @@
 
 ## 📂 Public Projects
 
-- [`nft-eip712-mint`](https://github.com/lsdogXG/nft-eip712-mint) — ERC-721 NFT with EIP-712 gasless signature minting
-- [`D3fv01d/EM`](https://github.com/D3fv01d/EM) — Audio adversarial protection (collaboration; frontend)
-- [`D3fv01d/ReLum`](https://github.com/D3fv01d/ReLum) — Web security training platform (collaboration)
+### 💰 Crypto Quant
+- [`polymaker`](https://github.com/lsdogXG/polymaker) — Polymarket multi-asset prediction market arbitrage bot (BTC/ETH/SOL/XRP @ 15m/1h/4h)
+- [`nautilus_trader`](https://github.com/lsdogXG/nautilus_trader) — Production-grade Rust-native trading engine (fork)
+
+### 🛡 Security / SRC
+- [`srctools`](https://github.com/lsdogXG/srctools) — SRC vulnerability mining helper tools (6 standalone Python utilities)
+- [`trace-smart-wallet`](https://github.com/lsdogXG/trace-smart-wallet) — Smart wallet on-chain tracking & analysis platform
+
+### 🌐 Web3 & Smart Contracts
+- [`nft-eip712-mint`](https://github.com/lsdogXG/nft-eip712-mint) — ERC-721 NFT with EIP-712 signature-based gasless minting
+- [`reentrancy-overflow-ctf`](https://github.com/lsdogXG/reentrancy-overflow-ctf) — Smart Contract CTF: chain reentrancy + integer overflow
+- [`nht-ctf`](https://github.com/lsdogXG/nht-ctf) — GMX V1 Arbitrum fork CTF challenge (Hardhat fork + keeper daemon)
+- [`sol-meme-sniper`](https://github.com/lsdogXG/sol-meme-sniper) — Solana SPL meme-token sniper (OKX WaaS API, single-file Node)
+
+### 🎨 Frontend / Tools
+- [`zhiyunfengwei`](https://github.com/lsdogXG/zhiyunfengwei) — 智云锋卫: 3D satellite-map flood monitoring (Next.js 15)
+- [`paperfolio-portfolio`](https://github.com/lsdogXG/paperfolio-portfolio) — Portfolio landing page (Next.js + Radix UI)
+- [`bulk-url-manager`](https://github.com/lsdogXG/bulk-url-manager) — Chrome MV3 extension: open many URLs at once
+- [`vanilla-storefront`](https://github.com/lsdogXG/vanilla-storefront) — Vanilla HTML/CSS/JS storefront scaffolding with i18n
+
+### 🤝 Collaborations
+- [`D3fv01d/EM`](https://github.com/D3fv01d/EM) — Audio adversarial protection (frontend)
+- [`D3fv01d/ReLum`](https://github.com/D3fv01d/ReLum) — Web security training platform
 
 ## 📊 GitHub Stats
 
